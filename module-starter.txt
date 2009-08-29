@@ -1,1 +1,2 @@
 module-starter --module= --builder=Module::Build --author="Yuki Kimoto" --email=kimoto.yuki@gmail.com
+module-starter --author="Yuki Kimoto" --email=kimoto.yuki@gmail.com
